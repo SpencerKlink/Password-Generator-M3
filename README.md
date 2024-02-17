@@ -4,6 +4,7 @@
 **Password Generator** is a web application designed to help you create strong and secure passwords. By allowing you to specify criteria such as password length and the inclusion of uppercase, lowercase, numeric, and special characters, it generates a password that meets your security needs.
 
 ## Screenshot of Application
+ ![alt text](assets/images/SS.jpeg "screenshot of site")
 
 ## Features
 - **Customizable Password Length:** You can choose a password length between 8 and 128 characters.
