@@ -6,14 +6,14 @@
 ## Screenshot of Application
 
 ## Features
-- **Customizable Password Length:** Users can choose a password length between 8 and 128 characters.
-- **Character Type Selection:** Users have the option to include or exclude:
+- **Customizable Password Length:** You can choose a password length between 8 and 128 characters.
+- **Character Type Selection:** You have the option to include or exclude:
   - Lowercase letters (a-z)
   - Uppercase letters (A-Z)
   - Numeric characters (0-9)
   - Special characters (e.g., !, @, #, $, etc.)
-- **Easy-to-Use Interface:** With a simple click of a button, users can generate a password that meets the selected criteria.
-- **Input Validation:** The application validates user input to ensure that the chosen password length is within the allowed range and that at least one character type is selected.
+- **Easy-to-Use Interface:** With a simple click of a button, you can generate a password that meets the selected criteria.
+- **Input Validation:** The application validates your input to ensure that the chosen password length is within the allowed range and that at least one character type is selected.
 
 ## How to Use
 1. **Open the Application:** Load the Password Generator in your web browser.
